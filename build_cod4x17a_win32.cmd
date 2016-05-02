@@ -1,5 +1,4 @@
-@set path=%LOCALAPPDATA%\nasm;%path%
-@set path=C:\MinGW\bin;%path%
+@set path=C:\Program Files (x86)\NASM;C:\MinGW\bin;%path%
 @echo off
 
 echo Compiling C-code...
