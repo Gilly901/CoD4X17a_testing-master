@@ -1,3 +1,18 @@
+Things you will need to compile this right:
+
+MinGW
+=====
+Download Latest MinGW: https://sourceforge.net/projects/mingw/files/latest/download?source=files
+-GCC Compile C BIN
+-PExport BIN
+
+NASM
+====
+Download Latest NASM: https://sourceforge.net/projects/nasm/files/latest/download
+
+
+
+
 CoD4X17a_testing
 ================
 
